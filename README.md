@@ -1,8 +1,15 @@
-# 💫 About Me:
-I am a graduated student with an Associate's Degree in Programming and am currently pursuing a Bachelor's Degree in Data Science. I have a strong passion for problem-solving and thrive in collaborative environments as a team player. My eagerness to learn inspires me to seek knowledge independently, and I focus on finding practical solutions to overcome challenges.
+<div align="center">
+  <h1>Hi, I'm Diego 🙋‍♂️</h1>
+</div>
+
+
+
+## 💫 About Me:
+I am a graduated student with an **Associate's Degree in Programming** and am currently pursuing a **Bachelor's Degree in Data Science**. I have a strong passion for problem-solving and thrive in collaborative environments as a team player. My eagerness to learn inspires me to seek knowledge independently, and I focus on finding practical solutions to overcome challenges.
 <br><br>I have a particular interest in backend development, where I enjoy creating efficient and scalable server-side applications. Additionally, I am actively developing machine learning models, leveraging algorithms to derive insights from data and solve complex problems.
 <br><br>As I continue to enhance my skills, I am enthusiastic about applying my knowledge in a professional environment and dedicated to creating solutions that drive positive outcomes.
-<br><br>🔭 I’m currently looking for a open position as Python Developer.
+<img align="right" src="https://raw.githubusercontent.com/diegog956/GYM-GUI/refs/heads/main/assets/code_guy.gif?token=GHSAT0AAAAAACWHYGV7EHNS522A2DRHT4QSZYJZILA" alt="" height="300" width="400"/>
+<br><br>🔭 I’m currently looking for a open position as **Python Developer**.
 <br>
 
 🌱 Learning at the moment:<br>

@@ -1,10 +1,10 @@
 <div align="center">
-  <h1>Hi, I'm Diego 🙋‍♂️</h1>
+  <h1>Hi, I'm Diego 👋</h1>
 </div>
 
 
 
-## 💫 About Me:
+## 🙋‍♂️ About Me:
 I am a graduated student with an **Associate's Degree in Programming** and am currently pursuing a **Bachelor's Degree in Data Science**. I have a strong passion for problem-solving and thrive in collaborative environments as a team player. My eagerness to learn inspires me to seek knowledge independently, and I focus on finding practical solutions to overcome challenges.
 <br><br>I have a particular interest in backend development, where I enjoy creating efficient and scalable server-side applications. Additionally, I am actively developing machine learning models, leveraging algorithms to derive insights from data and solve complex problems.
 <br><br>As I continue to enhance my skills, I am enthusiastic about applying my knowledge in a professional environment and dedicated to creating solutions that drive positive outcomes.
